@@ -1,1 +1,4 @@
-
+Finding 1: Excess admin access identified (SoD conflict).
+Finding 2: Delayed access removal for leaver accounts.
+Risk: Unauthorized access.
+Recommendation: Periodic access review and timely de-provisioning.
